@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/libs/EasyAR.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/EasyAR.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a086ab5d847fd3f5083fbd10c6f6aab5be2f9c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a81bcc555ffde3920a17067adf6790dc6b2f56cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_a94e0a27116388a7a9e94dab4645f727d84cc98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_bc28f98b711bca745bbaecde63a0ec71054f56e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_86d1a95023a8dde3f605e292547d8aa792c014e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_621133882636da7faf6305c63f5db5820ccf3531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/libs/EasyAR.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76897f1f230cf857ea84d8b64deb73803d7839a6">
+        <dex dex="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/build/intermediates/pre-dexed/debug/EasyAR_3f0b390d43b588bfc914e0b959932cc3a6b9cb18.jar" />
+    </item>
+
+</items>

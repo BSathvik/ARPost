@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/BSathvik/Downloads/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/HelloARQRCode/app/src/debug/shaders"/></dataSet></merger>
